@@ -1,0 +1,14 @@
+
+
+#startImage{
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+}
+
+body{
+  margin: 0;
+  margin-top: 300px;
+  text-align: center;
+
+}
