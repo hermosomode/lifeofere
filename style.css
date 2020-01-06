@@ -15,5 +15,15 @@ body{
   margin: 0;
   padding: 20px;
   line-height: 50px;
+  height: 950px;
+}
 
+#goalGrid{
+  display: grid;
+  grid-template-columns: 150px 1fr;
+}
+
+#goal{
+  padding-left: 60px;
+  line-height: 50px;
 }
